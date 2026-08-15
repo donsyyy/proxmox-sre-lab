@@ -1,0 +1,15 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# tfvars files containing secrets
+*.tfvars
+
+# Ansible retry files
+*.retry
+
+theOne.tfplan
+step_by_step_guide.md
