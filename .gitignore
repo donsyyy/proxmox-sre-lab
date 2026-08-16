@@ -11,5 +11,10 @@
 # Ansible retry files
 *.retry
 
+*lock.hcl
 theOne.tfplan
 step_by_step_guide.md
+ansible.cfg
+
+# Auto-generated Ansible inventory
+inventory.ini
